@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mi-mapa/static/css/main.e6c13ad2.css",
+    "main.js": "/mi-mapa/static/js/main.b47cb7bd.js",
+    "static/js/453.3237332f.chunk.js": "/mi-mapa/static/js/453.3237332f.chunk.js",
+    "index.html": "/mi-mapa/index.html",
+    "main.e6c13ad2.css.map": "/mi-mapa/static/css/main.e6c13ad2.css.map",
+    "main.b47cb7bd.js.map": "/mi-mapa/static/js/main.b47cb7bd.js.map",
+    "453.3237332f.chunk.js.map": "/mi-mapa/static/js/453.3237332f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b47cb7bd.js"
+  ]
+}
